@@ -1,0 +1,16 @@
+using elastic search
+fuzzy search 
+and co relate searches 
+API 
+no sql database
+cache results into 
+
+Any 
+filed and score kebana and elastic search 5000 records and load
+
+Search Engine: 
+	using X- Pack
+	abnormality detection
+	forecasting
+	graph --> related songs, related search
+	
